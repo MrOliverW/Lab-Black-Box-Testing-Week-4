@@ -24,6 +24,8 @@ Include:
 - One representative value from each partition
 - The expected result for each value
 
+*See attached equivalence partition
+
 ## Step 3: Decision Table Testing
 
 Apply decision table testing to one selected feature.
@@ -34,6 +36,8 @@ Include:
 - Actions
 - A completed decision table
 - Test cases based on the table
+
+*See attached Decision Table
 
 ## Step 4: State Transition Testing
 
@@ -46,6 +50,8 @@ Include:
 - Valid and invalid transitions
 - A completed state transition table
 - Test cases based on the table
+
+*See attached State Transition Matrix and Test Cases
 
 ## What to Submit
 
